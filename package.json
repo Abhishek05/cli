@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/CrabDude/nodejs-clis-starter.git"
+    "url": "git@github.com:Abhishek05/cli.git"
   },
-  "author": "Adam Crabtree",
+  "author": "Abhishek Paul",
   "license": "MIT",
   "dependencies": {
     "co": "^4.6.0",
